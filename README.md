@@ -12,4 +12,4 @@ you can name your .csv file by yourself
 put your own .csv file and classifier.py in the same folder and run data_collector directly
 
 ## demo
-[link]([https://www.runoob.com](https://drive.google.com/drive/folders/1cHTcTCOzebuCAUl7yXi-dNYwII1cskv3?usp=sharing))
+[link](https://drive.google.com/drive/folders/1cHTcTCOzebuCAUl7yXi-dNYwII1cskv3?usp=sharing)
